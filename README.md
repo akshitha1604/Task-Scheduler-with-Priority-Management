@@ -9,6 +9,8 @@ Identify Tasks:
 Determine the specific actions that need to occur and how frequently they should be performed.
 Assign Priority Levels: 
 Once tasks are identified, assign priority levels to each task based on their importance and urgency. Tasks with higher priority levels will be executed before those with lower priority levels. This ensures that critical tasks are completed promptly.
+
+
 Schedule Tasks: 
 
 After assigning priority levels, schedule the tasks using Task Scheduler. Add tasks and complete them according to the priority levels assigned. Ensure that tasks with higher priority levels are given appropriate time slots to execute before tasks with lower priority levels. This step optimizes task execution and ensures that essential tasks are completed on time.
